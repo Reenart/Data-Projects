@@ -1,6 +1,7 @@
 **#Project Title: Expense Prediction Based on Health Indicators and Demographics**
 
 **Project Description: **
+
 This project aims to predict level of expenses based on various health indicators and demographic factors. The model uses multiple machine learning techniques to explore and compare their effectiveness in predicting expenses.
 The models included are:
 - Support Vector Machine (SVM)
@@ -11,15 +12,18 @@ The models included are:
 The data is manipulated and pre-processed using pandas to ensure the models receive well-structured input.
 
 **#Getting Started**
+
 Follow the instructions below to set up and run this project.
 
 **#Prerequisites:**
+
 Before you begin, ensure that you have the following installed:
 Python 3.x
 pip (for installing Python packages) or 
 Jupyter Notebook (to run the code in a notebook interface)
 
 **#Installing**
+
 1. Clone the repository using Git Bash.
    Code: git clone https://github.com/username/Comparing_Models.ipynb
 2. Navigate to the project directory.
@@ -29,6 +33,7 @@ Jupyter Notebook (to run the code in a notebook interface)
    This will have the following libraries installed: Pandas, Scikit-learn, Seaborn, matplotlib, and numpy.
 
 **#Running the Models:**
+
 1. Data Preparation
 To run the project, open the Jupyter Notebook and run each cell in sequence:
 - Libraries: The first code cell contains the libraries to run the models. If you didn't install them using GIT BASH, you could highlight and run this cell on Jupyter Notebook to have these libraries installed.
@@ -36,6 +41,7 @@ To run the project, open the Jupyter Notebook and run each cell in sequence:
 - Key Statistics: The fifth cell shows the key statistics of the dataset.
 
 2.**#Data Manipulation:**
+
 - Clean and transform the dataset.
 - Handle missing values.
 - Encode categorical features and scale numerical ones.
