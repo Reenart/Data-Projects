@@ -1,6 +1,6 @@
 **#Project Title: Expense Prediction Based on Health Indicators and Demographics**
 
-**Project Description: **
+**Project Description:**
 
 This project aims to predict level of expenses based on various health indicators and demographic factors. The model uses multiple machine learning techniques to explore and compare their effectiveness in predicting expenses.
 The models included are:
